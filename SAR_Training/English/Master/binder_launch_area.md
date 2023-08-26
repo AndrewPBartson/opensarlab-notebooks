@@ -2,7 +2,7 @@
 
 
 <p style="text-align: center;">
-  SARHazards_Lab_ExploreTimeSeries.ipynb
+  edx - 1st tutorial - SARHazards_Lab_ExploreTimeSeries.ipynb
 </p>
 <p style="text-align: center;">
   <a href="https://mybinder.org/v2/gh/ASFBinderRecipes/Binder_SAR_Hazards_ExploreTimeSeries/main?labpath=SARHazards_Lab_ExploreTimeSeries.ipynb" 
