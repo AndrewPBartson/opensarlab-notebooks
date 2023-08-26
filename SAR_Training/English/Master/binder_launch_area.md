@@ -11,9 +11,9 @@
 
 
 <p style="text-align: center;">
-  Edit this button to link to my notebook on github - SARHazards_Lab_ExploreTimeSeries.ipynb
+  Edit this button to link to my notebook on github - something volcano.ipynb
 </p>
 <p style="text-align: center;">
-  <a href="" 
+  <a href="https://github.com/AndrewPBartson/opensarlab-notebooks/blob/master/SAR_Training/English/Master/InSAR_volcano_source_modeling.ipynb" 
     target="_blank" rel="noopener"><img alt="Binder" src="https://mybinder.org/badge_logo.svg" width="200"></a>
 </p>
